@@ -23,10 +23,10 @@
 |  | Collectable (Ani) | 19 | | Math | |
 |  | Collectable (Ani) | 20 | | Math | |
 |  | Decorative Item | 21 | Shrine | Hollow Noah | |
-|  | Decorative Item | 22 | Chest | Hollow Noah | |
+| X | Decorative Item | 22 | Chest | Hollow Noah | |
 |  | Decorative Item | 23 | Signs | Mythicool | Signs that sometimes indicate the ways to go |
 |  | Decorative Item | 24 | Flags | Mythicool | Flag of the castle |
-|  | Decorative Item | 25 | Spider web | Original | |
+| X | Decorative Item | 25 | Spider web | Original | |
 |  | Decorative Item | 26 | Stones/Boulders | Original | |
 |  | Decorative Item | 27 | Torch | Math | Light sources in both the caves, mountains and castle. |
 |  | Decorative Item | 28 | Grass | Math | Grass on top of grass tile |
@@ -39,8 +39,8 @@
 |  | Platform tiles | 35 | Castle ground | Mythicool | |
 |  | Platform tiles | 36 | Castle tower | Mythicool | |
 |  | Platform tiles | 37 | Mineshaft Platform | Original | |
-|  | Platform tiles | 38 | Ladder | Original | |
-|  | Platform tiles | 39 | Supports | Original | |
+| X | Platform tiles | 38 | Ladder | Original | |
+| X | Platform tiles | 39 | Supports | Original | |
 |  | Platform tiles | 40 | Minecart +- coal | Original | |
 |  | Platform tiles | 41 | Bare Ground | Math | |
 |  | Platform tiles | 42 | Ground with Grass | Math | |
